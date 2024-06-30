@@ -12,7 +12,7 @@ const Card: React.FC<CardProps> = ({ name, description }) => {
       <p className="text-base text-left text-gray-600">{description}</p>
       <button className="flex text-lg gap-1 items-center text-white animate-fadeIn justify-center hover:justify-between hover:pl-5 hover:pr-5 bg-green-700 w-36 h-10 rounded-xl hover:bg-green-900 hover:border-white hover:border-2 transition-all duration-300">
         <p className="transform">Let's go</p>
-        <p className="transform ml-0 hover:ml-5"> -&gt;</p>
+        <p className="transform ml-0 hover:ml-5"> -{">"}</p>
       </button>
     </div>
   );
