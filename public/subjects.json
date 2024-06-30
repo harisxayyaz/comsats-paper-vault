@@ -1,0 +1,44 @@
+{
+  "subjects": [
+    {
+      "name": "Mathematics",
+      "description": "Mathematics is the study of numbers, shapes, and patterns."
+    },
+    {
+      "name": "Physics",
+      "description": "Physics is the study of matter, energy, and the interactions between them."
+    },
+    {
+      "name": "Computer Science",
+      "description": "Computer Science is the study of computers and computational systems."
+    },
+    {
+      "name": "Biology",
+      "description": "Biology is the study of living organisms, their structure, function, growth, and evolution."
+    },
+    {
+      "name": "Chemistry",
+      "description": "Chemistry is the study of matter, its properties, composition, and changes it undergoes."
+    },
+    {
+      "name": "History",
+      "description": "History is the study of past events, particularly human affairs."
+    },
+    {
+      "name": "Literature",
+      "description": "Literature involves the study of written works, including novels, plays, and poetry."
+    },
+    {
+      "name": "Geography",
+      "description": "Geography is the study of the Earth's landscapes, environments,between people and their environments."
+    },
+    {
+      "name": "Economics",
+      "description": "Economics is the study of how individuals, businesses, governments, and nations make choices about allocating resources."
+    },
+    {
+      "name": "Psychology",
+      "description": "Psychology is the scientific study of behavior and mental processes."
+    }
+  ]
+}
