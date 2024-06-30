@@ -49,6 +49,7 @@ const Dashboard: React.FC = () => {
           ))}
         </section>
       </div>
+ 
     </div>
   );
 };
