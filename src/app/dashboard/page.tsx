@@ -1,14 +1,16 @@
 'use client'
-
 import React, { useState, useEffect } from "react";
-import Card from "@/components/card"; 
+import Card from "@/components/card";
+import { useRouter } from "next/navigation";
 
 interface Subject {
   name: string;
   description: string;
+  links: string[];
 }
 
 const Dashboard: React.FC = () => {
+  const router = useRouter();
   const [subjects, setSubjects] = useState<Subject[]>([]);
 
   useEffect(() => {
@@ -39,17 +41,32 @@ const Dashboard: React.FC = () => {
         </p>
       </section>
       <div className="flex-grow bg-gray-200 flex justify-center p-4">
-        <section className="flex flex-wrap gap-4 w-full max-w-[1200px] p-4 justify-center">
+        <section className="flex flex-wrap gap-4 w-full max-w-[1200px] p-4 justify-center animate-fadeIn">
           {subjects.map((subject, index) => (
             <Card
               key={index}
               name={subject.name}
               description={subject.description}
+              links={subject.links}
             />
           ))}
         </section>
       </div>
- 
+
+      <style jsx>{`
+        @keyframes fadeIn {
+          from {
+            opacity: 0;
+          }
+          to {
+            opacity: 1;
+          }
+        }
+
+        .animate-fadeIn {
+          animation: fadeIn 1s ease-in-out;
+        }
+      `}</style>
     </div>
   );
 };

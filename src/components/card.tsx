@@ -1,13 +1,25 @@
+'use client'
 import React from "react";
+import { useRouter } from "next/navigation";
 
 interface CardProps {
   name: string;
   description: string;
+  links: string[];
 }
 
-const Card: React.FC<CardProps> = ({ name, description }) => {
+const Card: React.FC<CardProps> = ({ name, description, links }) => {
+  const router = useRouter();
+
+  const handleClick = () => {
+    router.push(`/dashboard/${encodeURIComponent(name)}`);
+  };
+
   return (
-    <div className="flex flex-col p-4 bg-white border-2 h-72 w-72 text-2xl font-bold  rounded-xl  pt-8 pb-8 cursor-pointer transition-transform duration-300 hover:shadow-md transform hover:-translate-y-1">
+    <div
+      className="flex flex-col p-4 bg-white border-2 h-72 w-72 text-2xl font-bold rounded-xl pt-8 pb-8 cursor-pointer transition-transform duration-300 hover:shadow-md transform hover:-translate-y-1"
+      onClick={handleClick}
+    >
       <h1 className=" h-[70px]">{name}</h1>
       <p className="text-base text-left text-gray-600 h-[90px]">
         {description}

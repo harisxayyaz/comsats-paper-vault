@@ -18,11 +18,26 @@ export default function Home() {
           onClick={() => {
             router.push("/dashboard");
           }}
-          className="flex text-lg font-bold items-center gap-1 text-white justify-center hover:justify-between hover:pl-5 hover:pr-5 bg-green-700 w-36 h-10 mt-5 rounded-xl hover:bg-green-900 hover:border-white hover:border-2 ease-in-out duration-300"
+          className="flex text-lg font-bold items-center gap-1 text-white animate-fadeIn justify-center hover:justify-between hover:pl-5 hover:pr-5 bg-green-700 w-36 h-10 mt-5 rounded-xl hover:bg-green-900 hover:border-white hover:border-2 hover:ease-in duration-300"
         >
           <p className="transform">Let's go -{">"}</p>
         </button>
       </main>
+
+      <style jsx>{`
+        @keyframes fadeIn {
+          from {
+            opacity: 0;
+          }
+          to {
+            opacity: 1;
+          }
+        }
+
+        .animate-fadeIn {
+          animation: fadeIn 2s ease-in-out;
+        }
+      `}</style>
     </div>
   );
 }

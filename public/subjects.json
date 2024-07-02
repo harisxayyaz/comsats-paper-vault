@@ -2,43 +2,147 @@
   "subjects": [
     {
       "name": "Introduction to Computer Science",
-      "description": "Fundamentals of computer systems, algorithms, and programming."
+      "description": "Fundamentals of computer systems, algorithms, and programming.",
+      "links": [
+        {
+          "url": "https://drive.google.com/file/d/1b1W2Z5GUfZunOpW-8UBY4MHSfY1Bt7rP/view?usp=sharing",
+          "name": "Terminal SP24"
+        },
+        {
+          "url": "https://drive.google.com/file/d/intro-cs-2/view",
+          "name": "Midterm FA23"
+        },
+        {
+          "url": "https://drive.google.com/file/d/intro-cs-3/view",
+          "name": "Quiz 1"
+        }
+      ]
     },
     {
       "name": "Data Structures and Algorithms",
-      "description": "Study of data organization, storage, and retrieval methods."
+      "description": "Study of data organization, storage, and retrieval methods.",
+      "links": [
+        {
+          "url": "https://drive.google.com/file/d/dsa-1/view",
+          "name": "Final Exam SP24"
+        },
+        {
+          "url": "https://drive.google.com/file/d/dsa-2/view",
+          "name": "Midterm FA23"
+        }
+      ]
     },
     {
       "name": "Database Systems",
-      "description": "Design and management of databases and database systems."
+      "description": "Design and management of databases and database systems.",
+      "links": [
+        {
+          "url": "https://drive.google.com/file/d/dbs-1/view",
+          "name": "Final Exam SP24"
+        },
+        {
+          "url": "https://drive.google.com/file/d/dbs-2/view",
+          "name": "Midterm FA23"
+        }
+      ]
     },
     {
       "name": "Operating Systems",
-      "description": "Principles and implementation of operating systems."
+      "description": "Principles and implementation of operating systems.",
+      "links": [
+        {
+          "url": "https://drive.google.com/file/d/os-1/view",
+          "name": "Final Exam SP24"
+        },
+        {
+          "url": "https://drive.google.com/file/d/os-2/view",
+          "name": "Midterm FA23"
+        }
+      ]
     },
     {
       "name": "Software Engineering",
-      "description": "Principles and practices for developing software systems."
+      "description": "Principles and practices for developing software systems.",
+      "links": [
+        {
+          "url": "https://drive.google.com/file/d/se-1/view",
+          "name": "Final Exam SP24"
+        },
+        {
+          "url": "https://drive.google.com/file/d/se-2/view",
+          "name": "Midterm FA23"
+        }
+      ]
     },
     {
       "name": "Computer Networks",
-      "description": "Fundamentals of computer networking and communication protocols."
+      "description": "Fundamentals of computer networking and communication protocols.",
+      "links": [
+        {
+          "url": "https://drive.google.com/file/d/cn-1/view",
+          "name": "Final Exam SP24"
+        },
+        {
+          "url": "https://drive.google.com/file/d/cn-2/view",
+          "name": "Midterm FA23"
+        }
+      ]
     },
     {
       "name": "Artificial Intelligence",
-      "description": "Study of intelligent agents, machine learning, and natural language processing."
+      "description": "Study of intelligent agents, machine learning, and natural language processing.",
+      "links": [
+        {
+          "url": "https://drive.google.com/file/d/ai-1/view",
+          "name": "Final Exam SP24"
+        },
+        {
+          "url": "https://drive.google.com/file/d/ai-2/view",
+          "name": "Midterm FA23"
+        }
+      ]
     },
     {
       "name": "Cybersecurity",
-      "description": "Principles and practices for securing computer systems and networks."
+      "description": "Principles and practices for securing computer systems and networks.",
+      "links": [
+        {
+          "url": "https://drive.google.com/file/d/cyber-1/view",
+          "name": "Final Exam SP24"
+        },
+        {
+          "url": "https://drive.google.com/file/d/cyber-2/view",
+          "name": "Midterm FA23"
+        }
+      ]
     },
     {
       "name": "Web Development",
-      "description": "Development of web applications and technologies."
+      "description": "Development of web applications and technologies.",
+      "links": [
+        {
+          "url": "https://drive.google.com/file/d/web-1/view",
+          "name": "Final Exam SP24"
+        },
+        {
+          "url": "https://drive.google.com/file/d/web-2/view",
+          "name": "Midterm FA23"
+        }
+      ]
     },
     {
       "name": "Mobile Application Development",
-      "description": "Development of mobile applications and technologies."
+      "description": "Development of mobile applications and technologies.",
+      "links": [
+        {
+          "url": "https://drive.google.com/file/d/mobile-1/view",
+          "name": "Final Exam SP24"
+        },
+        {
+          "url": "https://drive.google.com/file/d/mobile-2/view",
+          "name": "Midterm FA23"
+        }
+      ]
     }
   ]
 }
