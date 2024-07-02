@@ -25,7 +25,7 @@ const Card: React.FC<CardProps> = ({ name, description, links }) => {
         {description}
       </p>
 
-      <button className="flex font-medium text-sm gap-1 items-center text-white justify-center hover:justify-between hover:pl-4 hover:pr-4 bg-green-700 w-36 h-10 rounded-xl hover:bg-green-900 hover:border-white hover:border-2 ease-out duration-300">
+      <button className="flex font-medium text-sm gap-1 items-center text-white justify-center bg-green-700 w-36 h-10 rounded-xl hover:bg-green-900 ease-out duration-200">
         <p className="transform">View Papers -{">"}</p>
       </button>
     </div>
