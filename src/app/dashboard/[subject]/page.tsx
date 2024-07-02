@@ -45,21 +45,16 @@ export default function Subject({ params }: { params: { subject: string } }) {
         {subject ? (
           <ul className="space-y-4">
             {subject.links.map((link, index) => (
-              <a
-                href={link.url}
-                key={index}
-                className="bg-gray-100 p-4 cursor-pointer  rounded-lg hover:bg-gray-200 transition-colors duration-300 flex justify-between items-center"
-              >
+              <li key={index} className="flex justify-between items-center">
                 <a
                   href={link.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-blue-600 hover:text-blue-800 "
+                  className="bg-gray-100 p-4 cursor-pointer rounded-lg hover:bg-gray-200 transition-colors duration-300 flex-grow text-blue-600 hover:text-blue-800"
                 >
-            
                   {link.name}
                 </a>
-              </a>
+              </li>
             ))}
           </ul>
         ) : (
