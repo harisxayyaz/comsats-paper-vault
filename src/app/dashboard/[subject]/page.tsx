@@ -71,18 +71,6 @@ export default function Subject({ params }: { params: { subject: string } }) {
       </div>
 
       <style jsx>{`
-        @keyframes fadeIn {
-          from {
-            opacity: 0;
-          }
-          to {
-            opacity: 1;
-          }
-        }
-
-        .animate-fadeIn {
-          animation: fadeIn 1s ease-in-out;
-        }
 
         @media (max-width: 640px) {
           .p-8 {
