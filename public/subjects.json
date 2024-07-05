@@ -19,16 +19,24 @@
       ]
     },
     {
-      "name": "Data Structures and Algorithms",
+      "name": "Programming Fundamentals (PF)",
       "description": "Study of data organization, storage, and retrieval methods.",
       "links": [
         {
-          "url": "https://drive.google.com/file/d/dsa-1/view",
-          "name": "Final Exam SP24"
+          "url": "https://drive.google.com/file/d/1dASk_jchp_OZJLAgcB09fvEVZ8mR4CE4/view",
+          "name": "Terminal FA19"
         },
         {
-          "url": "https://drive.google.com/file/d/dsa-2/view",
-          "name": "Midterm FA23"
+          "url": "https://drive.google.com/file/d/1obKCli1fOYXUbyCdxyPKzIepATYsfpSD/view",
+          "name": "Terminal SP21"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1anvYAGEesURcw1Mtad2_nL_EI-OHSyqp/view",
+          "name": "Terminal FA22"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1avG9yAmRxhxjEW8_45zaHBG5SJrMXhEa/view",
+          "name": "Terminal SP23"
         }
       ]
     },

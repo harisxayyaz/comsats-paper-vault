@@ -1,7 +1,6 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import Card from "@/components/card";
-import { useRouter } from "next/navigation";
 
 interface Subject {
   name: string;
@@ -10,7 +9,6 @@ interface Subject {
 }
 
 const Dashboard: React.FC = () => {
-  const router = useRouter();
   const [subjects, setSubjects] = useState<Subject[]>([]);
   const [searchTerm, setSearchTerm] = useState("");
 
@@ -57,7 +55,7 @@ const Dashboard: React.FC = () => {
         />
       </header>
       <div className="flex-grow bg-gray-200 flex justify-center p-4">
-        <section className="flex flex-wrap gap-4 w-full max-w-[1200px] min-h-screen p-4 justify-center animate-fadeIn mt-20">
+        <section className="flex flex-wrap gap-4 w-full max-w-[1200px] min-h-screen  p-4  justify-center animate-fadeIn mt-10">
           {filteredSubjects.map((subject, index) => (
             <Card
               key={index}
