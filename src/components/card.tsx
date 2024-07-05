@@ -17,7 +17,7 @@ const Card: React.FC<CardProps> = ({ name, description, links }) => {
 
   return (
     <div
-      className="flex flex-col p-4 bg-white border-2 h-72 w-72 text-2xl font-bold rounded-xl pt-8 pb-8 cursor-pointer transition-transform duration-300 hover:shadow-md transform hover:-translate-y-1"
+      className="  flex flex-col p-4 bg-white border-2 h-72 w-72 text-2xl font-bold rounded-xl pt-8 pb-8 cursor-pointer transition-transform duration-300 hover:shadow-md transform hover:-translate-y-1"
       onClick={handleClick}
     >
       <h1 className=" h-[70px]">{name}</h1>

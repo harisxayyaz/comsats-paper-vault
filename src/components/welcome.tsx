@@ -18,9 +18,9 @@ export default function Welcome() {
           onClick={() => {
             router.push("/dashboard");
           }}
-          className="flex text-lg font-bold items-center gap-1 text-white animate-fadeIn justify-center bg-green-700 w-36 h-10 mt-5 rounded-xl hover:bg-green-900 hover:ease-in duration-300"
+          className="flex text-lg font-bold items-center gap-1 text-white animate-fadeIn justify-center bg-green-700 w-36 h-10 mt-5 rounded-xl hover:bg-green-900 hover:ease-in hover:duration-300"
         >
-          <p className="transform">Let's go -{">"}</p>
+          <p >Let's go -{">"}</p>
         </button>
       </main>
     </div>
