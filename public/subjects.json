@@ -1,7 +1,7 @@
 {
   "subjects": [
     {
-      "name": "Introduction to Computer Science",
+      "name": "Introduction to Computer Science (ICT)",
       "description": "Fundamentals of computer systems, algorithms, and programming.",
       "links": [
         {
@@ -9,12 +9,16 @@
           "name": "Terminal SP24"
         },
         {
-          "url": "https://drive.google.com/file/d/intro-cs-2/view",
-          "name": "Midterm FA23"
+          "url": "https://drive.google.com/file/d/194FV0EW-kLu5bOZWQNkPNj09KxqmWWDa/view?usp=drive_link",
+          "name": "Midterm FA21"
         },
         {
-          "url": "https://drive.google.com/file/d/intro-cs-3/view",
-          "name": "Quiz 1"
+          "url": "https://drive.google.com/file/d/1Tu1RYG9aW-x8e7X9Cx8rGEXhBrBjFHNE/view?usp=drive_link",
+          "name": "Terminal FA21"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1Fk9eKyuB17WQidX7FgK0BYnyr_TKDSE_/view?usp=drive_link",
+          "name": "Lab Mid"
         }
       ]
     },
@@ -37,118 +41,156 @@
         {
           "url": "https://drive.google.com/file/d/1avG9yAmRxhxjEW8_45zaHBG5SJrMXhEa/view",
           "name": "Terminal SP23"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1W3cbn0ox1YkQX50FFYoNOaKJBrG6t_U9/view?usp=drive_link",
+          "name": "Mid SP22"
         }
       ]
     },
     {
-      "name": "Database Systems",
+      "name": "Database Systems (DB)",
       "description": "Design and management of databases and database systems.",
       "links": [
         {
-          "url": "https://drive.google.com/file/d/dbs-1/view",
-          "name": "Final Exam SP24"
-        },
-        {
-          "url": "https://drive.google.com/file/d/dbs-2/view",
-          "name": "Midterm FA23"
+          "url": "https://drive.google.com/file/d/17jcu1jL5n4vS_tQB-sa0fdW6JKSJkoMm/view?usp=drive_link",
+          "name": "Mid SP22"
         }
       ]
     },
     {
-      "name": "Operating Systems",
-      "description": "Principles and implementation of operating systems.",
-      "links": [
-        {
-          "url": "https://drive.google.com/file/d/os-1/view",
-          "name": "Final Exam SP24"
-        },
-        {
-          "url": "https://drive.google.com/file/d/os-2/view",
-          "name": "Midterm FA23"
-        }
-      ]
-    },
-    {
-      "name": "Software Engineering",
+      "name": "Discrete Structures (DS)",
       "description": "Principles and practices for developing software systems.",
       "links": [
         {
-          "url": "https://drive.google.com/file/d/se-1/view",
-          "name": "Final Exam SP24"
-        },
-        {
-          "url": "https://drive.google.com/file/d/se-2/view",
-          "name": "Midterm FA23"
+          "url": "https://drive.google.com/file/d/1hYbqoTV7CNIAlKWNXpCEiEgT7dMNOCWj/view?usp=drive_link",
+          "name": "Mid SP22"
         }
       ]
     },
     {
-      "name": "Computer Networks",
+      "name": "Data Structures and Algorithms (DSA)",
       "description": "Fundamentals of computer networking and communication protocols.",
       "links": [
         {
-          "url": "https://drive.google.com/file/d/cn-1/view",
-          "name": "Final Exam SP24"
+          "url": "https://drive.google.com/file/d/18N4sgMoFUijX5hQeawdgFgJwgPQHSHMq/view?usp=drive_link",
+          "name": "Terminal SP22"
         },
         {
-          "url": "https://drive.google.com/file/d/cn-2/view",
-          "name": "Midterm FA23"
+          "url": "https://drive.google.com/file/d/1Qr60xtbRYe1mbCBPhGcD45KFU2kQ6UyZ/view?usp=drive_link",
+          "name": "Mid FA21"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1ORLLYhIorrXMnrbbHgahIzy09M_eIFff/view?usp=drive_link",
+          "name": "Mid SP22"
         }
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Object Oriented Programming (OOP)",
       "description": "Study of intelligent agents, machine learning, and natural language processing.",
       "links": [
         {
-          "url": "https://drive.google.com/file/d/ai-1/view",
-          "name": "Final Exam SP24"
+          "url": "https://drive.google.com/file/d/1JJi599liTV_aNJ7u-1LwOq4EdLZZtIqX/view?usp=drive_link",
+          "name": "Mid FA21"
         },
         {
-          "url": "https://drive.google.com/file/d/ai-2/view",
-          "name": "Midterm FA23"
+          "url": "https://drive.google.com/file/d/1pOJJRpQCI0NEandLkJHHlO1PcbmTw5gZ/view?usp=drive_link",
+          "name": "Midterm SP22"
         }
       ]
     },
     {
-      "name": "Cybersecurity",
+      "name": "Digital Logic Design (DLD)",
       "description": "Principles and practices for securing computer systems and networks.",
       "links": [
         {
-          "url": "https://drive.google.com/file/d/cyber-1/view",
-          "name": "Final Exam SP24"
+          "url": "https://drive.google.com/file/d/19r0RBUALcr1-1w-G5VRNIdazxk-m-LAy/view?usp=drive_link",
+          "name": "Terminal SP22 (CS)"
         },
         {
-          "url": "https://drive.google.com/file/d/cyber-2/view",
-          "name": "Midterm FA23"
+          "url": "https://drive.google.com/file/d/1ug9IukUtZw1dHe5l6KEhpFBG8bDIOuLh/view?usp=drive_link",
+          "name": "Mid SP22 (CS)"
+        },
+        {
+          "url": "https://drive.google.com/file/d/18fF5X_FWRZ9zdxOJ6xyZ14tZGoXvNdlO/view?usp=drive_link",
+          "name": "Mid SP22"
+        },
+        {
+          "url": "https://drive.google.com/file/d/18TyHQKYZqKGNBDEmSpcq9eIsac81Uo3s/view?usp=drive_link",
+          "name": "Terminal SP22"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1LfT1kLYi_r-AVIbpqiqtpSO_gg-NM6A7/view?usp=drive_link",
+          "name": "Terminal FA21"
         }
       ]
     },
     {
-      "name": "Web Development",
+      "name": "Assembly Language (COAL)",
       "description": "Development of web applications and technologies.",
       "links": [
         {
-          "url": "https://drive.google.com/file/d/web-1/view",
-          "name": "Final Exam SP24"
+          "url": "https://drive.google.com/file/d/1G475fsRPseP57LErJmJMkB_JPPelRjSq/view?usp=drive_link",
+          "name": "Terminal FA22"
         },
         {
-          "url": "https://drive.google.com/file/d/web-2/view",
-          "name": "Midterm FA23"
+          "url": "https://drive.google.com/file/d/1twFLUHVv_6-TAQzLpG63jpRFOInzeyFW/view?usp=drive_link",
+          "name": "Mid FA22"
         }
       ]
     },
     {
-      "name": "Mobile Application Development",
+      "name": "Mobile Application Development (MAD)",
       "description": "Development of mobile applications and technologies.",
       "links": [
         {
-          "url": "https://drive.google.com/file/d/mobile-1/view",
-          "name": "Final Exam SP24"
+          "url": "https://drive.google.com/file/d/1gYiZgEH8o-YqNGEUeKTtC79kdHdik3Bf/view?usp=drive_link",
+          "name": "Terminal SP22"
         },
         {
-          "url": "https://drive.google.com/file/d/mobile-2/view",
-          "name": "Midterm FA23"
+          "url": "https://drive.google.com/file/d/1-De5kZhfVLB9l817byNotNMkHYboheww/view?usp=drive_link",
+          "name": "Terminal FA22"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1DOm8mwz9ySnl9npAsOVHMhQEvlXD5rBa/view?usp=drive_link",
+          "name": "Mid SP22"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1-De5kZhfVLB9l817byNotNMkHYboheww/view?usp=drive_link",
+          "name": "Mid FA21"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1gTwsBtc8v1_6NXn8MfqTw10xKeot9dDo/view?usp=drive_link",
+          "name": "Mid FA22"
+        }
+      ]
+    },
+    {
+      "name": "Data Warehousing and Data Mining (DWDM)",
+      "description": "Study of intelligent agents, machine learning, and natural language processing.",
+      "links": [
+        {
+          "url": "https://drive.google.com/file/d/1HuxI7AybrPd4TMA2AMwHNEqc0Ce1wvX2/view?usp=drive_link",
+          "name": "Terminal SP22"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1o1decekcHdjzbkDQYXBqj9-W5bWGaGAt/view?usp=drive_link",
+          "name": "Mid SP22"
+        }
+      ]
+    },
+    {
+      "name": "Theory of Automata (TOA)",
+      "description": "Study of intelligent agents, machine learning, and natural language processing.",
+      "links": [
+        {
+          "url": "https://drive.google.com/file/d/1dbrPIiZi7N58MUzaBYkXPOFeCR71o7UU/view?usp=drive_link",
+          "name": "Mid FA22"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1SfP7WCopCEOj-l9o6RLSMS8otQI0GNbM/view?usp=drive_link",
+          "name": "Terminal SP22"
         }
       ]
     }
